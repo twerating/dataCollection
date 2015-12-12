@@ -8,7 +8,7 @@ if len(sys.argv) != 2:
     print("Usage: python getMovie.py [num_of_movies]")
     exit(1)
 baseUrl = "http://www.imdb.com/search/title?title_type=feature&count=100&view=simple"
-outputFile = open('movieList.txt', 'w+')
+outputFile = open('list.txt', 'w+')
 numMovies = int(sys.argv[1])
 
 
