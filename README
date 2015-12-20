@@ -1,0 +1,7 @@
+Movie list generator: getMovie.py
+usage: python getMovie.py movie_number_per_rating
+
+Tweets Crawler: getTweets.py
+usage: python getTweets.py
+
+2000train/ and 2000/test contain the tweets that were already retrieved
